@@ -1,4 +1,4 @@
-# 
+# exclusive bot for Polymarket - take-profit-orders and cross-chain-arbitrage offers the most advanced Polymarket bot, with take-profit-orders and cross-chain-arbitrage. Ideal for
 
 
 
